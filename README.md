@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @edu-vazquez
-- 👀 I’m interested in learningun programing
-- 🌱 I’m currently learning lenguaje C in 42barcelona
+I’m currently learning in 42barcelona
 
 <!---
 edu-vazquez/edu-vazquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
