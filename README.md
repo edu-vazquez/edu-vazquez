@@ -1,4 +1,4 @@
-I’m currently learning in 42barcelona
+I’m currently learning
 
 <!---
 edu-vazquez/edu-vazquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
