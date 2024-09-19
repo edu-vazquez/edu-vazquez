@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=default(B897FF)&text=Eduardo%20Vazquez&textBg=false&section=header&reversal=false&fontColor=ffff&fontAlign=50&fontAlignY=34"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=default(808080)&text=Eduardo%20Vazquez&textBg=false&section=header&reversal=false&fontColor=ffff&fontAlign=50&fontAlignY=34"/>
 
 <!--
 **edu-vazquez/edu-vazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
