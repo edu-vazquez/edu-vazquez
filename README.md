@@ -1,4 +1,4 @@
-[<h1 align="center"> Hi there 👋 </h1>](https://capsule-render.vercel.app/api?type=waving&height=200&color=default&text=Eduardo%20Vazquez&textBg=false&section=header&reversal=false)
+<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header](https://capsule-render.vercel.app/api?type=waving&height=200&color=default&text=Eduardo%20Vazquez&textBg=false&section=header&reversal=false)"/>
 
 <!--
 **edu-vazquez/edu-vazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
