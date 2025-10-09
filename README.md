@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-STACKS:  
-[Ver mi perfil de CodePen](https://codepen.io/edu-vazquez)
